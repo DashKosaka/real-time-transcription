@@ -1,0 +1,6 @@
+argh
+tabulate
+pyaudiowpatch
+pandas
+numpy
+scipy
